@@ -1,2 +1,2 @@
 # class_work
-Class Assignment
+Class assignment on different type of git commands and their usage
