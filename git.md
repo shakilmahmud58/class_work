@@ -14,5 +14,11 @@ This command sets the author name and email address respectively to be used with
 
 This command is used to start a new repository.
 
+### 3.git add command
+
+>Syntax: git add "filename" or git add .
+
+This command take the file into staging area.
+
 
 
